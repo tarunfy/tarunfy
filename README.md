@@ -55,3 +55,4 @@
 [react-router]: https://reactrouter.com/
 [framer-motion]: https://www.framer.com/motion/
 [firebase]: https://firebase.google.com/
+[course]: https://sigma-rules.netlify.app/
