@@ -2,8 +2,6 @@
   <a href="https://app.daily.dev/ohitztarun"><img src="https://api.daily.dev/devcards/433862e3e844474791cca3cb3575136f.png?r=ptu" width="400" alt="Tarun Sharma's Dev Card"/></a>
 ### Hi there, I'm [Tarun Sharma][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](ohitztarun.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fohitztarun&screen_name=ohitztarun)
 
 ## I'm a Student, Learner and Developer!!
 
