@@ -34,7 +34,7 @@
 [<img align="left" alt="Redux" width="26px" src="https://redux.js.org/img/redux.svg" />][redux]
 [<img align="left" alt="React-Router" width="26px" src="https://seeklogo.com/images/R/react-router-logo-AB5BFB638F-seeklogo.com.png" />][react-router]
 [<img align="left" alt="React-Router" width="26px" src="https://pagepro.co/blog/wp-content/uploads/2020/03/framer-motion.png" />][framer-motion]
-[<img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" />][firebase]
+[<img align="left" alt="Firebase" width="26px" height="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" />][firebase]
 
 <br />
 
