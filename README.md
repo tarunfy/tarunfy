@@ -10,7 +10,7 @@
 - 🔭 I just made my first fullstack Webapp: [Sigma Rules][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work with other developers so badly
-- 🥅 2022 Goals: Start Contributing to Open Source projects, rebuilding my portfolio website, learn backend stuff and work in a company 😎
+- 🥅 2022 Goals: Start Contributing to Open Source projects
 - ⚡ Fun fact: I love listening calm & chill music and playing games
 
 ### Connect with me:
