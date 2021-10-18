@@ -10,7 +10,7 @@
 - 🥅 2022 Goals: Start Contributing to Open Source projects
 - ⚡ Fun fact: I love listening calm & chill music and playing games
 
-### Connect with me:
+### Connect with me 🤝🏻:
 
 [<img align="left" alt="tarunfy | Website" width="22px" src="http://clipart-library.com/image_gallery/n1275662.png" />][website]
 [<img align="left" alt="tarunfy | Twitter" width="22px" src="https://vta.com.au/wp-content/uploads/2017/08/twitter-icon.gif" />][twitter]
@@ -18,7 +18,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools 🛠:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
@@ -37,7 +37,7 @@
 
 <br />
 
-### Latest Blog Posts 📕 
+### Latest Blog Posts 📕:  
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
