@@ -39,6 +39,8 @@
 
 ### Latest Blog Posts 📕:  
 <!-- BLOG-POST-LIST:START -->
+- [How I created and deployed my first full stack web application in just 4 days](https://dev.to/tarunfy/how-i-created-and-deployed-my-first-full-stack-web-application-in-just-4-days-2a14)
+- [First post](https://dev.to/tarunfy/first-post-2pah)
 <!-- BLOG-POST-LIST:END -->
 
 
