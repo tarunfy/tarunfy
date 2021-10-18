@@ -37,6 +37,11 @@
 
 <br />
 
+### Latest Blog Posts 📕 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 [website]: https://tarunfy.github.io
 [twitter]: https://twitter.com/tarunfy
 [instagram]: https://instagram.com/tarunfy
