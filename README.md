@@ -1,4 +1,4 @@
-[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohitztarun&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunfy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there, I'm [Tarun Sharma][website] 👋
 
@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ohitztarun | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ohitztarun | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ohitztarun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="tarunfy | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="tarunfy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="tarunfy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -37,9 +37,9 @@
 
 <br />
 
-[website]: https://ohitztarun.github.io
-[twitter]: https://twitter.com/ohitztarun
-[instagram]: https://instagram.com/ohitztarun
+[website]: https://tarunfy.github.io
+[twitter]: https://twitter.com/tarunfy
+[instagram]: https://instagram.com/tarunfy
 [vscode]: https://code.visualstudio.com/download
 [html]: https://html.com/
 [css3]: https://www.w3schools.com/css/
