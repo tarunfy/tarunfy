@@ -40,6 +40,7 @@
 
 ### Latest Blog Posts 📕:  
 <!-- BLOG-POST-LIST:START -->
+- [Formify | Hassle-free HTML Form Endpoints](https://dev.to/tarunfy/formify-hassle-free-html-form-endpoints-5gi0)
 - [How I created and deployed another full stack app in just 3 days](https://dev.to/tarunfy/how-i-created-and-deployed-another-full-stack-app-in-just-3-days-41eo)
 - [How I created and deployed my first full stack web application in just 4 days](https://dev.to/tarunfy/how-i-created-and-deployed-my-first-full-stack-web-application-in-just-4-days-2a14)
 <!-- BLOG-POST-LIST:END -->
