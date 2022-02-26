@@ -2,7 +2,7 @@
 
 ### Hi there, I'm [Tarun Sharma][website] 👋
 
-## I'm a Student, Learner and Developer!!
+## I'm a Student, Sharp Learner and Developer!!
 
 - 🔭 I just made my first full-stack Webapp: [Sigma Rules][course]!
 - 🌱 I’m currently learning everything 🤣
