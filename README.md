@@ -4,7 +4,7 @@
 
 ## I'm a Student, Learner and Developer!!
 
-- 🔭 I just made my first fullvstack Webapp: [Sigma Rules][course]!
+- 🔭 I just made my first full-stack Webapp: [Sigma Rules][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work with other developers so badly
 - 🥅 2022 Goals: Start Contributing to Open Source projects
