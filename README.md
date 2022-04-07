@@ -1,5 +1,3 @@
-[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunfy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there, I'm [Tarun Sharma][website] 👋
 
 ## I'm a Student, Sharp Learner and Developer!!
@@ -45,6 +43,7 @@
 - [How I created and deployed my first full stack web application in just 4 days](https://dev.to/tarunfy/how-i-created-and-deployed-my-first-full-stack-web-application-in-just-4-days-2a14)
 <!-- BLOG-POST-LIST:END -->
 
+[![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunfy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://tarunfy.github.io
 [twitter]: https://twitter.com/tarunfy
