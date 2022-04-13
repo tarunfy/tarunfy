@@ -14,7 +14,8 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26px" align="left" height="26px"/>](https://nodejs.org/en/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26px" align="left" height="26px"/>](https://git-scm.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="26px" align="left" height="26px"/>](https://www.figma.com/)
-
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px" align="left" height="30px" />
+](https://nextjs.org/)
 <br />
 <br />
 
