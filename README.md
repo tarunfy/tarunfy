@@ -31,7 +31,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=tarunfy&show_icons=true&theme=dark"/>
 
-[website]: https://tarunfy.github.io
+[website]: https://tarunsharma.tech
 [twitter]: https://twitter.com/tarunfy
 [instagram]: https://instagram.com/tarunfy
 [vscode]: https://code.visualstudio.com/download
